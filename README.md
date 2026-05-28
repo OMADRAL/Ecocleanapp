@@ -12,7 +12,7 @@ Application web intelligente permettant aux citoyens de signaler les incidents u
 
 ---
 ![sign in](assets/sign_in.png)
-### 📊 Dashboard Citoyen
+
 
 ![Dashboard](assets/dashboard.png)
 
